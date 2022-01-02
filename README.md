@@ -19,6 +19,7 @@
 
 5. Windows OS
 
+   - Download [get-pip.py](https://bootstrap.pypa.io/get-pip.py) and then put it into the directory of the project.
    - Run `install.bat` as administrator.
    - Or you can install using `requirements.txt` on cmd window.
      `pip install -r requirements.txt`
